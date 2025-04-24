@@ -1,7 +1,7 @@
 # 🚗 Car Price Prediction - Kaggle Competition
-Kaggle comp. building a model to get the best accuarcy using pipline
+Kaggle comp. building a model to get the best accuracy using pipeline
 
-This repository contains my solution for the [Car Price Prediction](https://www.kaggle.com/competitions/car-price-prediction-khazani-ahmed) Kaggle competition by Khazani Ahmed.
+This repository contains my solution for the [Car Price Prediction](https://www.kaggle.com/competitions/car-price-prediction-khazani-ahmed) Kaggle competition by Khazani Ahmed. And I got Score: 2416.93608 approximately the 15th on the leader board 
 
 ## 📊 Objective
 
